@@ -58,8 +58,56 @@ class App extends React.Component {
                     title: 'Шкаф',
                     img: 'Wardrobe.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
-                    category: 'Wardrobe',
-                    price: '849.0'
+                    category: 'wardrobe',
+                    price: '849.00'
+                },
+                {
+                    id: 7,
+                    title: 'Люстра',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'light',
+                    price: '84.99'
+                },
+                {
+                    id: 8,
+                    title: 'Стол компьютерный',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'tables',
+                    price: '659.99'
+                },
+                {
+                    id: 9,
+                    title: 'Кресло игровое',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'chairs',
+                    price: '745.00'
+                },
+                {
+                    id: 10,
+                    title: 'Кровать двуспальная',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'sofa',
+                    price: '699.00'
+                },
+                {
+                    id: 11,
+                    title: 'Шкаф кухонный',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'wardrobe',
+                    price: '448.99'
+                },
+                {
+                    id: 12,
+                    title: 'Торшер',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'light',
+                    price: '39.99'
                 }
             ]
         }
