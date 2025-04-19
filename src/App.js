@@ -108,6 +108,30 @@ class App extends React.Component {
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'light',
                     price: '39.99'
+                },
+                {
+                    id: 13,
+                    title: 'Диван раскладываемый',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'sofa',
+                    price: '689.99'
+                },
+                {
+                    id: 14,
+                    title: 'Шкаф секционный',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'wardrobe',
+                    price: '1199.00'
+                },
+                {
+                    id: 15,
+                    title: 'Стол кухонный',
+                    img: '.jpg',
+                    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
+                    category: 'tables',
+                    price: '239.99'
                 }
             ]
         }
