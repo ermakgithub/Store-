@@ -64,7 +64,7 @@ class App extends React.Component {
                 {
                     id: 7,
                     title: 'Люстра',
-                    img: '.jpg',
+                    img: 'lustra.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'light',
                     price: '84.99'
@@ -72,7 +72,7 @@ class App extends React.Component {
                 {
                     id: 8,
                     title: 'Стол компьютерный',
-                    img: '.jpg',
+                    img: 'table-comp.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'tables',
                     price: '659.99'

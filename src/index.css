@@ -125,7 +125,7 @@ header .presentation {
     background-size: cover;
     background-position: center center;
     background-bland-mode: multiply;
-    background-color: #bcbcbc ;
+    background-color: #333333 ;
     position: relative;
 }
 header .presentation::after {
