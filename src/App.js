@@ -80,7 +80,7 @@ class App extends React.Component {
                 {
                     id: 9,
                     title: 'Кресло игровое',
-                    img: '.jpg',
+                    img: 'game-sofa.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'chairs',
                     price: '745.00'
@@ -88,7 +88,7 @@ class App extends React.Component {
                 {
                     id: 10,
                     title: 'Кровать двуспальная',
-                    img: '.jpg',
+                    img: 'double-bad.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'sofa',
                     price: '699.00'
@@ -96,7 +96,7 @@ class App extends React.Component {
                 {
                     id: 11,
                     title: 'Шкаф кухонный',
-                    img: '.jpg',
+                    img: 'kitchen.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'wardrobe',
                     price: '448.99'
@@ -104,34 +104,34 @@ class App extends React.Component {
                 {
                     id: 12,
                     title: 'Торшер',
-                    img: '.jpg',
+                    img: 'torsher.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'light',
                     price: '39.99'
                 },
                 {
                     id: 13,
-                    title: 'Диван раскладываемый',
-                    img: '.jpg',
+                    title: 'Диван раскладной',
+                    img: 'sofarasc.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'sofa',
                     price: '689.99'
                 },
                 {
                     id: 14,
-                    title: 'Шкаф секционный',
-                    img: '.jpg',
+                    title: 'Комод',
+                    img: 'commod.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'wardrobe',
-                    price: '1199.00'
+                    price: '450.00'
                 },
                 {
                     id: 15,
                     title: 'Стол кухонный',
-                    img: '.jpg',
+                    img: 'kitchentable.jpg',
                     desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing.',
                     category: 'tables',
-                    price: '239.99'
+                    price: '1039.99'
                 }
             ]
         }
