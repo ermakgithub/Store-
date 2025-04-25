@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import { FaShopify } from "react-icons/fa";
+import { AiOutlineShoppingCart } from "react-icons/ai";
 import Order from "./Order";
 
 
@@ -33,7 +33,7 @@ export default function Header(props) {
                   <li>Контакты</li>
                   <li>Кабинет</li>
               </ul>
-              <FaShopify onClick={()=>setCartOpen(cartOpen=!cartOpen)} className={`shop-cart-button ${cartOpen && 'active'}`}/>
+              <AiOutlineShoppingCart  onClick={()=>setCartOpen(cartOpen=!cartOpen)} className={`shop-cart-button ${cartOpen && 'active'}`}/>
 
               {cartOpen && (
                   <div className='shop-cart'>
